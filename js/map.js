@@ -1,8 +1,8 @@
 var interactive_map = new InteractiveMap('map', {
     max_good_zoom: 6,
     max_map_zoom: 8,
-    website_source: '',
-    website_subdir: '',
+    website_source: 'https://github.com/THEGizmoOfficial/Paradise-MTA-Znajdzki-Mapa',
+    website_subdir: 'Paradise-MTA-Znajdzki-Mapa',
 });
 
 interactive_map.addTileLayer("Mapa Gry", {  //
