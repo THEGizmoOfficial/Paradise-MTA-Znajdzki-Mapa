@@ -5,7 +5,12 @@ var interactive_map = new InteractiveMap('map', {
     website_subdir: 'Paradise-MTA-Znajdzki-Mapa',
 });
 
-interactive_map.addTileLayer("Mapa Gry", {  //
+interactive_map.addTileLayer("Mapa Paradise", {
+    minNativeZoom: 2,
+    maxNativeZoom: 5,
+}, 'ui/maps/Paradise/{z}/{x}/{y}.png')
+
+interactive_map.addTileLayer("Mapa Gry", {
     minNativeZoom: 2,
     maxNativeZoom: 5,
 });

@@ -20,7 +20,7 @@ function addHeartLayer2021(map) {
 
 function addHeartLayer2022(map) {
     map.addInteractiveLayer('heart2022', heart2022, {
-        name: "Walentynki - Serca [2022] Soon",
+        name: "Walentynki - Serca [2022] Niekompletne",
         create_checkbox: true,
         create_feature_popup: true,
         is_default: true,
