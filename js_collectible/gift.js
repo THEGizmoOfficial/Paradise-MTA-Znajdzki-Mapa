@@ -1,7 +1,7 @@
 //Prezenty
 function addGiftLayer2021(map) {
     map.addInteractiveLayer('gift2021', gift2021, {
-        name: "Święta - Prezenty [2021] Soon",
+        name: "Święta - Prezenty [2021]",
         create_checkbox: true,
         create_feature_popup: true,
         is_default: true,
