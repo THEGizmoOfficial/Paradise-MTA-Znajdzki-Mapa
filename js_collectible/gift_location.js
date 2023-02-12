@@ -2066,8 +2066,8 @@ var gift2022 = {
             "type": "Feature",
             "properties": {
                 "id": "39",
-                "image_id": "https://cdn.discordapp.com/attachments/1058487884849614918/1058488985569202276/40.jpg",
-                "image_link": "https://cdn.discordapp.com/attachments/1058487884849614918/1058488985569202276/40.jpg",
+                "image_id": "https://cdn.discordapp.com/attachments/1058487884849614918/1058488980242432080/39.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1058487884849614918/1058488980242432080/39.jpg",
                 "description": "U gory w kominie"
             },
             "geometry": {
