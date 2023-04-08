@@ -1717,5 +1717,135 @@ var egg2023 = {
                 "coordinates": [-1951.68, 304.84, 41.05]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "31",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094291549057204325/31.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094291549057204325/31.jpg",
+                "description": "Na torach"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1655.56, 475.07, 19.83]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "32",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094292041170682026/32.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094292041170682026/32.jpg",
+                "description": "Za budynkiem strazy pozarnej"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2048.47, 66.84, 28.65]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "33",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094292494113591478/33.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094292494113591478/33.jpg",
+                "description": "Za rozwalonym budynkiem"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2185.51, -272.26, 36.6]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "34",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094292960562130964/34.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094292960562130964/34.jpg",
+                "description": "U gory warsztatu mechanika"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1729.52, -145.45, 8.41]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "35",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094293523127337110/35.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094293523127337110/35.jpg",
+                "description": "Przy straganach"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2535.78, -28.56, 25.62]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "36",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094294052289126510/36.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094294052289126510/36.jpg",
+                "description": "Z tylu budynku przy drzwiach"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2781.17, -18.11, 7.18]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "37",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094294638287929475/37.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094294638287929475/37.jpg",
+                "description": "W rogu budynku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2040.38, -1059.14, 32.12]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "38",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094295284261073067/38.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094295284261073067/38.jpg",
+                "description": "Na wysepce"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1511.48, 1373.42, 3.22]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "39",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094295898521088051/39.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094295898521088051/39.jpg",
+                "description": "Na wejsciu do domku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2106.52, 296.22, 36.38]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "40",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094296372318052472/40.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094296372318052472/40.jpg",
+                "description": "Na mostku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2218.1, -339.06, 44.81]
+            }
+        },
     ]
 };
