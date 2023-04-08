@@ -1847,5 +1847,135 @@ var egg2023 = {
                 "coordinates": [-2218.1, -339.06, 44.81]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "41",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094297496508960778/41.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094297496508960778/41.jpg",
+                "description": "Na wiezy kosciola"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2718.34, -319.45, 57.49]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "42",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094299563533283420/42.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094299563533283420/42.jpg",
+                "description": "Pomiedzy kontenerami przy licytacji"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1618.9, 89, 6.25]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "43",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094300097250066522/43.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094300097250066522/43.jpg",
+                "description": "Pomiedzy kontenerami kolo licytacji"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1750.51, 183.97, 3.55]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "44",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094300815356858509/44.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094300815356858509/44.jpg",
+                "description": "Za plotem przy bazie organizacji"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2442.8, -163.17, 35.36]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "45",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094301234648858735/45.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094301234648858735/45.jpg",
+                "description": "Na samej gorze dachu urzedu SF"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2020.2, 436.26, 139.74]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "46",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094302063795646504/46.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094302063795646504/46.jpg",
+                "description": "Na gorze ramy mostu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [53.12, -1530.89, 11.96]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "47",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094302840211644536/47.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094302840211644536/47.jpg",
+                "description": "Za domkiem na grove street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2526.39, -1639.99, 13.97]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "48",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094303452403859567/48.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094303452403859567/48.jpg",
+                "description": "Za tylem budyneczku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2260.89, -1619.59, 15.92]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "49",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094304339708874834/49.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094304339708874834/49.jpg",
+                "description": "Wysepka z drzewami"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2639.44, 2040.75, 10.95]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "50",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094305119971057846/50.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094305119971057846/50.jpg",
+                "description": "Kolo magazunu LP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-236.46, 2826.33, 62.2]
+            }
+        },
     ]
 };
