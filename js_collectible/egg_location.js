@@ -1587,5 +1587,135 @@ var egg2023 = {
                 "coordinates": [2457.84, 2124.13, 10.82]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "21",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094283909631578163/21.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094283909631578163/21.jpg",
+                "description": "Parking komendy LV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2317.21, 2500.65, 3.27]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "22",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094284821880123402/22.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094284821880123402/22.jpg",
+                "description": "Na dachu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1948.54, 1333.72, 15.84]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "23",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094285380481720400/23.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094285380481720400/23.jpg",
+                "description": "W trawie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2378.34, 2011.28, 11.16]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "24",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094285776197525707/24.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094285776197525707/24.jpg",
+                "description": "Za plotem"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2422.25, 1786.65, 10.81]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "25",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094286702010441848/25.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094286702010441848/25.jpg",
+                "description": "Kolo statku piratow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1977.8, 1598.3, 18.42]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "26",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094287227237978293/26.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094287227237978293/26.jpg",
+                "description": "Parking G1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2343.09, 1387.45, 30.02]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "27",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094288113456660591/27.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094288113456660591/27.jpg",
+                "description": "Okno obok salonu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2561.51, 1100.26, 16.11]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "28",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094288784566268096/28.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094288784566268096/28.jpg",
+                "description": "Za murkiem burger shota LV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2184.84, 2801.92, 10.82]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "29",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094289768961024102/29.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094289768961024102/29.jpg",
+                "description": "Na koparce"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1976.33, -997.38, 37.46]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "30",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094290759521403061/30.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094290759521403061/30.jpg",
+                "description": "Salon SF Singlowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1951.68, 304.84, 41.05]
+            }
+        },
     ]
 };
