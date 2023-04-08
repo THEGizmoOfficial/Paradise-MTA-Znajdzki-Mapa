@@ -2159,5 +2159,18 @@ var egg2023 = {
                 "coordinates": [2171.81, 2415.99, 65.28]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "65",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094342865741697135/65.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094342865741697135/65.jpg",
+                "description": "Lotnisko LV blisko salonu pojazdow latajacych"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1550.7, 1853.68, 10.83]
+            }
+        },
     ]
 };
