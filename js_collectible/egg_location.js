@@ -1977,5 +1977,135 @@ var egg2023 = {
                 "coordinates": [-236.46, 2826.33, 62.2]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "51",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094308499749621840/51.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094308499749621840/51.jpg",
+                "description": "Na wejsciu do budynku na zapleczu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2315.32, 33.89, 27.47]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "52",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094309392352038962/52.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094309392352038962/52.jpg",
+                "description": "Zlomowisko"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1869.39, -1607.33, 21.76]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "53",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094309882745852086/53.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094309882745852086/53.jpg",
+                "description": "W garazu domku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2225.5, -2401.15, 31.98]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "54",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094310607878107187/54.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094310607878107187/54.jpg",
+                "description": "Pod MC od strony drogi u gory"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2711.74, -1920.84, 87.52]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "55",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094311261438746824/55.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094311261438746824/55.jpg",
+                "description": "Farma budynek z balami"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2013.51, -2348.92, 30.62]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "56",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094311721855877171/56.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094311721855877171/56.jpg",
+                "description": "Wejscie do domku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2053.53, -2544.65, 31.07]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "57",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094312147699372042/57.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094312147699372042/57.jpg",
+                "description": "Stacja paliw dach AP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1554.76, -2725.71, 51.47]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "58",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094312899423514705/58.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094312899423514705/58.jpg",
+                "description": "Skup farmerski"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1423.02, -1455.79, 101.7]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "59",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094313723545526322/59.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094313723545526322/59.jpg",
+                "description": "Na samej gorze MC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2230.32, -1741.16, 480.87]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "60",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094314402691436738/60.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094314402691436738/60.jpg",
+                "description": "Pod mostem"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1209.11, -2346.66, 1.29]
+            }
+        },
     ]
 };
