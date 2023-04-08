@@ -1323,3 +1323,139 @@ var egg2022 = {
         },
     ]
 };
+
+var egg2023 = {
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094261692222939288/1.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094261692222939288/1.jpg",
+                "description": "Stacja paliw LS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1028.61, -1370.33, 13.57]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094261709054693516/2.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094261709054693516/2.jpg",
+                "description": "Cmentarz LS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [811.8, -1098.53, 25.91]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094262639808479323/3.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094262639808479323/3.jpg",
+                "description": "Wneka budynku obok pracy tirow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [990.07, -1692.37, 13.55]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094263802897371206/4.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094263802897371206/4.jpg",
+                "description": "Urzad LV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2434.85, 2377.8, 10.82]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094265335890325515/5.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094265335890325515/5.jpg",
+                "description": "U gory za budynkiem"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2216.29, -2697.57, 17.88]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "6",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094266025182240768/6.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094266025182240768/6.jpg",
+                "description": "Urzad LS u gory"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1315.36, -1363.28, 18.84]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "7",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094267098496254073/7.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094267098496254073/7.jpg",
+                "description": "Za murkiem przy drzewie gdzie tuning lowrider na singlu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2638.02, -2022.86, 13.52]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094269090882928680/8.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094269090882928680/8.jpg",
+                "description": "Na murku obok domu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1295.37, -1077.98, 31.9]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "9",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094270124703363163/9.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094270124703363163/9.jpg",
+                "description": "Po mostem glen park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1975.15, -1234.69, 20.05]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "10",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094270799298449448/10.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094270799298449448/10.jpg",
+                "description": "Stacja paliw LS kolo stadionu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2676.98, -1634.33, 11.42]
+            }
+        },
+    ]
+};

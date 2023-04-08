@@ -31,4 +31,6 @@ addEggLayer2022(interactive_map);
 addPumpkinLayer2022(interactive_map);
 addGiftLayer2022(interactive_map);
 
+addEggLayer2023(interactive_map);
+
 interactive_map.finalize();

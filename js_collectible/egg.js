@@ -36,3 +36,22 @@ function addEggLayer2022(map) {
         }
     });
 }
+
+function addEggLayer2023(map) {
+    map.addInteractiveLayer('egg2023', egg2023, {
+        name: "Wielkanoc - Jajka [2023]",
+        create_checkbox: true,
+        create_feature_popup: true,
+        is_default: true,
+        sidebar_icon_html: '🥚',
+        pointToLayer: function (feature, latlng) {
+            return L.marker(latlng, {
+                icon: Utils.getCustomIcon('🥚'),
+                riseOnHover: true
+            });
+        },
+        coordsToLatLng: function (coords) {
+            return gtaCoordinatesToLeaflet(coords);
+        }
+    });
+}
