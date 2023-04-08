@@ -2107,5 +2107,44 @@ var egg2023 = {
                 "coordinates": [-1209.11, -2346.66, 1.29]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "61",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094315905770602586/61.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094315905770602586/61.jpg",
+                "description": "W okolicach opuszczonego lotniska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-390.72, 2486.53, 41.19]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "62",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094317778175000576/62.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094317778175000576/62.jpg",
+                "description": "Kolo zdawania prawa jazdy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1097.81, 1398.98, 6.63]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "63",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094319114463477811/63.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094319114463477811/63.jpg",
+                "description": "Za baza organizacji"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [87.6, -140.57, 1.58]
+            }
+        },
     ]
 };
