@@ -2172,5 +2172,18 @@ var egg2023 = {
                 "coordinates": [1550.7, 1853.68, 10.83]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "66",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094360520859074560/66.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094360520859074560/66.jpg",
+                "description": "Ostatnie kontenery po lewo jak sie wjezdza"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [3344.38, -744.73, 11.02]
+            }
+        },
     ]
 };
