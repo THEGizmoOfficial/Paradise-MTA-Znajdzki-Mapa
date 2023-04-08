@@ -1457,5 +1457,135 @@ var egg2023 = {
                 "coordinates": [2676.98, -1634.33, 11.42]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "11",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094275476693995550/11.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094275476693995550/11.jpg",
+                "description": "Na dachu bazy organizacji"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2351.22, -2068.91, 21.2]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "12",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094276246290038835/12.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094276246290038835/12.jpg",
+                "description": "Pomiedzy schodami u gory"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1722.14, -1622.15, 19.02]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094277644738101308/13.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094277644738101308/13.jpg",
+                "description": "Kolo lotniska LS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1480.15, -2290.22, 22.3]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094278338694098944/14.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094278338694098944/14.jpg",
+                "description": "Na dachu burger shot LS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1197.25, -913.93, 48.06]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094279287919620206/15.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094279287919620206/15.jpg",
+                "description": "Blisko ulicy na budynku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [488.9, -1609.96, 22.86]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094279988171264110/16.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094279988171264110/16.jpg",
+                "description": "Za plotem zieleni przy ulicy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [614.83, -1352.91, 13.63]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094280770018889808/17.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094280770018889808/17.jpg",
+                "description": "Za plotem miedzy budynkami"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [200.07, -1758.86, 4.3]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094281360497201172/18.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094281360497201172/18.jpg",
+                "description": "Budka przy przecho utopionych"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1020.34, -1922.96, 12.63]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "19",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094282579118661682/19.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094282579118661682/19.jpg",
+                "description": "Za winklem"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2255.43, 2342.45, 10.82]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "20",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094283144032686090/20.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094283144032686090/20.jpg",
+                "description": "W salonie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2457.84, 2124.13, 10.82]
+            }
+        },
     ]
 };
