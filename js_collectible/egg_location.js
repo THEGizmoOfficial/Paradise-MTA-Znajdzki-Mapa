@@ -2146,5 +2146,18 @@ var egg2023 = {
                 "coordinates": [87.6, -140.57, 1.58]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "64",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094340019591852122/64.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094340019591852122/64.jpg",
+                "description": "Dach emerald ale ten rowny z poziomem parkingu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2171.81, 2415.99, 65.28]
+            }
+        },
     ]
 };
