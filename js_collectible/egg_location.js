@@ -2451,7 +2451,7 @@ var egg2023 = {
                 "id": "87",
                 "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094724569354469496/87.jpg",
                 "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094724569354469496/87.jpg",
-                "description": "W srodku domu pod magazynem import/export"
+                "description": "W srodku domu nad magazynem import/export"
             },
             "geometry": {
                 "type": "Point",
