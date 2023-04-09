@@ -2276,5 +2276,83 @@ var egg2023 = {
                 "coordinates": [-420.15, -1764.76, 15.06]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "74",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094585350510354432/74.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094585350510354432/74.jpg",
+                "description": "Tama na schodach w dol"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-611.7, 1809.3, 1.27]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "75",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094588062413094912/75.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094588062413094912/75.jpg",
+                "description": "Na samej gorze taki budynek okragly"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1176.67, -1190.92, 86.83]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "76",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094593551561666614/76.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094593551561666614/76.jpg",
+                "description": "W rogu gdzie kiedys byl zlodziej SF"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2198.05, 78.77, 35.32]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "77",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094594904577015898/77.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094594904577015898/77.jpg",
+                "description": "Kamieniolom"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [485.35, 961.3, 6.29]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "78",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094597791256432762/78.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094597791256432762/78.jpg",
+                "description": "Parking lotniska szukaj litery B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1361.8, -87.22, 6.34]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "79",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094598470926602290/79.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094598470926602290/79.jpg",
+                "description": "Nad tunelem blisko stadionu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2286.43, -341.53, 50.9]
+            }
+        },
     ]
 };
