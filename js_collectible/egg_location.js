@@ -2250,5 +2250,31 @@ var egg2023 = {
                 "coordinates": [737.26, -1918.7, 1.06]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "72",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094577115615219732/72.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094577115615219732/72.jpg",
+                "description": "Bagno"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-460.79, -1887.89, 8.33]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "73",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094577144027422730/73.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094577144027422730/73.jpg",
+                "description": "Chatka nieopodal bagna"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-420.15, -1764.76, 15.06]
+            }
+        },
     ]
 };
