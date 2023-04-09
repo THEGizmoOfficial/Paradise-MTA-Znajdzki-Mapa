@@ -2393,5 +2393,18 @@ var egg2023 = {
                 "coordinates": [1002.49, -681.96, 125.51]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "83",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094629311480336464/83.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094629311480336464/83.jpg",
+                "description": "Kolo rozwidlenia autostrady LS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1557.79, -988.46, 37.51]
+            }
+        },
     ]
 };
