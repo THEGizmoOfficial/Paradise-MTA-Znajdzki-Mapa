@@ -2445,5 +2445,18 @@ var egg2023 = {
                 "coordinates": [1425.72, 365.4, 18.86]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "87",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094724569354469496/87.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094724569354469496/87.jpg",
+                "description": "W srodku domu pod magazynem import/export"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2580, 1432.32, 15.59]
+            }
+        },
     ]
 };
