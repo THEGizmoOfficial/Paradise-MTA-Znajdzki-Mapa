@@ -2380,5 +2380,18 @@ var egg2023 = {
                 "coordinates": [187.71, -1313.69, 73.9]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "82",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094618825703567460/82.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094618825703567460/82.jpg",
+                "description": "Na balkonie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1002.49, -681.96, 125.51]
+            }
+        },
     ]
 };
