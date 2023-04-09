@@ -2198,5 +2198,57 @@ var egg2023 = {
                 "coordinates": [-1443.94, 93.25, 1.96]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "68",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094556531044925552/68.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094556531044925552/68.jpg",
+                "description": "Za rogiem blisko naprawy pojazdow sluzb"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1148.49, -1344.79, 13.66]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "69",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094557317606940782/69.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094557317606940782/69.jpg",
+                "description": "Budynek z flagami taki ala urzad blisko SAPD z singla"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1480.76, -1769.94, 18.8]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "70",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094558846766284820/70.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094558846766284820/70.jpg",
+                "description": "Na kontenerach blisko wegla i trzeba zrobic parkour do tego miejsca"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2154.92, -2016.47, 21.64]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "71",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094559546145521725/71.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094559546145521725/71.jpg",
+                "description": "Plaza LS na murku blisko wody"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [737.26, -1918.7, 1.06]
+            }
+        },
     ]
 };
