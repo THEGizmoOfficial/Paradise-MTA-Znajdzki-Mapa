@@ -2432,5 +2432,18 @@ var egg2023 = {
                 "coordinates": [-399.39, -422.22, 16.2]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "86",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094712708198314125/86.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094712708198314125/86.jpg",
+                "description": "RC Montgomery kolo starej bazy SEU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1425.72, 365.4, 18.86]
+            }
+        },
     ]
 };
