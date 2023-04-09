@@ -2354,5 +2354,18 @@ var egg2023 = {
                 "coordinates": [-2286.43, -341.53, 50.9]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "80",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094607167438463056/80.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094607167438463056/80.jpg",
+                "description": "W srodku garazu kolo sary LV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1596.64, 912.69, 10.67]
+            }
+        },
     ]
 };
