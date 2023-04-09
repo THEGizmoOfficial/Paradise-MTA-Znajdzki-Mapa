@@ -2406,5 +2406,31 @@ var egg2023 = {
                 "coordinates": [1557.79, -988.46, 37.51]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "84",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094689031230607400/84.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094689031230607400/84.jpg",
+                "description": "Kolo magazynu LS doki"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2192.8, -2479.68, 31.64]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "85",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094690171737354310/85.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094690171737354310/85.jpg",
+                "description": "Chatka kolo wiezienia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-399.39, -422.22, 16.2]
+            }
+        },
     ]
 };
