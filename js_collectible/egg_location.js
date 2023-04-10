@@ -2458,5 +2458,96 @@ var egg2023 = {
                 "coordinates": [2580, 1432.32, 15.59]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "88",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094915730010558584/88.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094915730010558584/88.jpg",
+                "description": "Na drugim dachu takiego okraglego budynku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2082.49, -809.33, 66.88]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "89",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094917821525401740/89.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094917821525401740/89.jpg",
+                "description": "Na rusztowaniu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2022.17, 340.13, 62.51]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "90",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094920373570637954/90.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094920373570637954/90.jpg",
+                "description": "Gielda lodzi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [3278.28, -835.5, 1.05]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "91",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094921845196726302/91.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094921845196726302/91.jpg",
+                "description": "Na dachu wyzej"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2661.46, -1542.08, 30.15]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "92",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094921905582133278/92.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094921905582133278/92.jpg",
+                "description": "Na dachu nizej"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2660.94, -1572.25, 23.18]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "93",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094922914693910528/93.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094922914693910528/93.jpg",
+                "description": "Na ogrodku domu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1852.59, -2094.56, 15.03]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "94",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1094924240471478282/94.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1094924240471478282/94.jpg",
+                "description": "Na tarasie domku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [754.64, -591.16, 18.01]
+            }
+        },
     ]
 };
