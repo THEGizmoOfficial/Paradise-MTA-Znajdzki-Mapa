@@ -2549,5 +2549,18 @@ var egg2023 = {
                 "coordinates": [754.64, -591.16, 18.01]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "95",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1095335768752406608/95.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1095335768752406608/95.jpg",
+                "description": "Na dzwigu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2519.27, -2716.44, 38.72]
+            }
+        },
     ]
 };
