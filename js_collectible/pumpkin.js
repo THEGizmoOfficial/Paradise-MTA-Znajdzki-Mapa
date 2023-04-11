@@ -1,7 +1,7 @@
 //Dynie
 function addPumpkinLayer2021(map) {
     map.addInteractiveLayer('pumpkin2021', pumpkin2021, {
-        name: "Halloween - Dynie [2021] Soon",
+        name: "Dynie [2021] [Archiwum] 0/150",
         create_checkbox: true,
         create_feature_popup: true,
         is_default: true,
@@ -20,7 +20,7 @@ function addPumpkinLayer2021(map) {
 
 function addPumpkinLayer2022(map) {
     map.addInteractiveLayer('pumpkin2022', pumpkin2022, {
-        name: "Halloween - Dynie [2022] Niekompletne",
+        name: "Dynie [2022] [Archiwum] 70/125",
         create_checkbox: true,
         create_feature_popup: true,
         is_default: true,

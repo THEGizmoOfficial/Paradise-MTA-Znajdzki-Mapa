@@ -141,6 +141,7 @@ html, body, #map {
 .leaflet-sidebar-header {
     position: sticky;
     top: 0px;
+    padding: 0 10px;
 }
 
 .leaflet-sidebar-content {
@@ -212,5 +213,11 @@ html, body, #map {
 
     100% {
         background-color: black;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .leaflet-sidebar-header{
+        font-size: 1rem;
     }
 }

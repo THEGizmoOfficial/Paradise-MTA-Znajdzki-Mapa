@@ -1,7 +1,7 @@
 //Jajka
 function addEggLayer2021(map) {
     map.addInteractiveLayer('egg2021', egg2021, {
-        name: "Wielkanoc - Jajka [2021] Soon",
+        name: "Jajka [2021] [Archiwum] 0/140",
         create_checkbox: true,
         create_feature_popup: true,
         is_default: true,
@@ -20,7 +20,7 @@ function addEggLayer2021(map) {
 
 function addEggLayer2022(map) {
     map.addInteractiveLayer('egg2022', egg2022, {
-        name: "Wielkanoc - Jajka [2022]",
+        name: "Jajka [2022] [Archiwum] 100/100",
         create_checkbox: true,
         create_feature_popup: true,
         is_default: true,
@@ -39,7 +39,7 @@ function addEggLayer2022(map) {
 
 function addEggLayer2023(map) {
     map.addInteractiveLayer('egg2023', egg2023, {
-        name: "Wielkanoc - Jajka [2023]",
+        name: "Jajka [2023] 94/100",
         create_checkbox: true,
         create_feature_popup: true,
         is_default: true,

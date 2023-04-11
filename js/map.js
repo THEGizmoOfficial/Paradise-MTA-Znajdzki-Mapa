@@ -21,7 +21,6 @@ interactive_map.addTileLayer("Mapa MTA", {
     tileSize: 262,
 }, 'ui/maps/MTA_SA/{z}/{x}/{y}.png')
 
-addHeartLayer2021(interactive_map);
 addEggLayer2021(interactive_map);
 addPumpkinLayer2021(interactive_map);
 addGiftLayer2021(interactive_map);
