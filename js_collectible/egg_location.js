@@ -2562,5 +2562,18 @@ var egg2023 = {
                 "coordinates": [2519.27, -2716.44, 38.72]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "96",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1096046226874564748/96.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1096046226874564748/96.jpg",
+                "description": "Na tarasie domu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [551.78, -1213.22, 44.86]
+            }
+        },
     ]
 };
