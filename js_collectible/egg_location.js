@@ -2575,5 +2575,18 @@ var egg2023 = {
                 "coordinates": [551.78, -1213.22, 44.86]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "97",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1096812445525352671/97.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1096812445525352671/97.jpg",
+                "description": "Na rogu budynku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1687.56, -1277.27, 39.61]
+            }
+        },
     ]
 };
