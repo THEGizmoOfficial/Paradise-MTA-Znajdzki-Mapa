@@ -39,7 +39,7 @@ function addEggLayer2022(map) {
 
 function addEggLayer2023(map) {
     map.addInteractiveLayer('egg2023', egg2023, {
-        name: "Jajka [2023] 97/100",
+        name: "Jajka [2023] 98/100",
         create_checkbox: true,
         create_feature_popup: true,
         is_default: true,
