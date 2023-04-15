@@ -2601,5 +2601,31 @@ var egg2023 = {
                 "coordinates": [-2728.58, -103.75, 10.25]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "99",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1096858724343230484/99.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1096858724343230484/99.jpg",
+                "description": "Pomiedzy wzmocnieniem mostu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-474.04, 1060.35, 6.72]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "100",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1096859851298193418/100.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1096859851298193418/100.jpg",
+                "description": "Na malej wyspie ziemi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2444.77, -2249.56, 1.94]
+            }
+        },
     ]
 };
