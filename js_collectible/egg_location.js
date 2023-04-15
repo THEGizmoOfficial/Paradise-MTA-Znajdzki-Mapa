@@ -2588,5 +2588,18 @@ var egg2023 = {
                 "coordinates": [1687.56, -1277.27, 39.61]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "98",
+                "image_id": "https://cdn.discordapp.com/attachments/1094217723053101106/1096818325151035533/98.jpg",
+                "image_link": "https://cdn.discordapp.com/attachments/1094217723053101106/1096818325151035533/98.jpg",
+                "description": "Na dachu domku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2728.58, -103.75, 10.25]
+            }
+        },
     ]
 };
